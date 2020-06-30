@@ -4,7 +4,7 @@ This is an Ansible role to setup Peek - A Simple animated GIF screen recorder - 
 
 ## Usage
 
-I assume you are already setup [Ansible](https://ansible.com) and your [Ansible playbook](https://docs.ansible.com/ansible/latest/user_guide/playbooks.html) with the [Best Practices](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html#directory-layout) in mind.
+I assume you have already setup [Ansible](https://ansible.com) and your [Ansible playbook](https://docs.ansible.com/ansible/latest/user_guide/playbooks.html) with the [best practices](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html#directory-layout) in mind.
 
 Go to your playbook root directory and run
 
