@@ -23,10 +23,19 @@ This will add the role to your playbook. You now have to add it to your playbook
     - peek
 ```
 
+To install peek via this role execute your whole playbook or use one of the [tags](#Tags) provided by this role.
+
+## Tags
+
+In this role the following tags are included.
+
+- peek
+- screen-recording
+
 # Buy me a cup of tea 🍵
 
 If you like my work feel free to bring some love back. 
 
 - Give this repo a ⭐
 - Follow me on [GitHub](https://github.com/BennyLi) or [Twitter](https://twitter.com/BennyLindemann)
-- Drop some 💰 via [PayPal](
+- Drop some 💰 via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L5FWZYAM5Y5A4&source=url)
