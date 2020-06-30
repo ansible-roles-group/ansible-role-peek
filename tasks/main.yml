@@ -1,0 +1,11 @@
+---
+
+- name: Install Peek - A simple animated GIF screen recorder
+  become: yes
+  pacman:
+    state: latest
+    update_cache: yes
+    name: peek
+  tags:
+    - screen-recording
+    - peek
